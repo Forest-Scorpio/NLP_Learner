@@ -1,6 +1,8 @@
 # NLP_Learner🔥🔥
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz3y0tuTb6eVttXT7NlIROAoolzZsMGy39rQ&usqp=CAU)
+<div align=center>
+<img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz3y0tuTb6eVttXT7NlIROAoolzZsMGy39rQ&usqp=CAU"/>
+</div>
 
 ## 项目介绍🍎 
 
