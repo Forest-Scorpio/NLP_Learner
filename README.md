@@ -27,6 +27,10 @@
 
 - **CS224N**
   - [Lecture1-Introduction and Word Vectors](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture1-Introduction%20and%20Word%20Vectors)
+  - [Lecture2-Word Vectors 2 and Word Senses](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture2-Word%20Vectors%202%20and%20Word%20Senses)
+  - [Lecture3-Word Window Classification and Neural Networks](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture3-Word%20Window%20Classification%20and%20Neural%20Networks)
+  - [Lecture4-Linguistic Structure Dependency Parsing](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture4-Linguistic%20Structure%20Dependency%20Parsing)
+  - [Lecture5-Matrix Calculus and Backpropagation](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture5-Matrix%20Calculus%20and%20Backpropagation)
 
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
