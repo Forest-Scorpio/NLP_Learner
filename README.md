@@ -1,7 +1,7 @@
 # NLP_Learner🔥🔥
 
 <div align=center>
-<img width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz3y0tuTb6eVttXT7NlIROAoolzZsMGy39rQ&usqp=CAU"/>
+<img width="500" src="https://www.pantechsolutions.net/blog/wp-content/uploads/2019/05/NLP.png"/>
 </div>
 
 ## 项目介绍🍎 
