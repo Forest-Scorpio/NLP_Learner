@@ -17,6 +17,18 @@
 
 - **项目持续更新中......**
 
+### 机器学习🍉
+
+### 深度学习🎈
+
+### 自然语言处理🍊
+
+#### 学习课程
+
+- **CS224N**
+  - [Lecture1-Introduction and Word Vectors](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture1-Introduction%20and%20Word%20Vectors)
+
+
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
 | 机器学习 | [1. 线性回归(Liner Regression)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
