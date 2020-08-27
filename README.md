@@ -1,6 +1,6 @@
 # NLP_Learner🔥🔥
 
-![](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2475974145,1367243366&fm=26&gp=0.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRz3y0tuTb6eVttXT7NlIROAoolzZsMGy39rQ&usqp=CAU)
 
 ## 项目介绍🍎 
 
