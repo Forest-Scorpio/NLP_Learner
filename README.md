@@ -41,7 +41,7 @@
 
 ## 代码实战🎈🎈
 
-- 文本分类(Text classification):
+- **中文文本分类(Text classification)**[Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
