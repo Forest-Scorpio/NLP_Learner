@@ -32,19 +32,20 @@
 
 - **项目持续更新中......**
 
-### 学习课程
+### 学习课程🎈
 
 - **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。
   - [slides](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures) 
   - [videos](https://www.bilibili.com/video/BV1Eb411H7Pq)
   - [blogs](https://bitjoy.net/?s=CS224N)
 
-## 代码实战🎈🎈
+### 代码实战🎈
 
 - **中文文本分类(Text classification)**
   
   - TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch [Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
   - 使用Bert，ERNIE，进行中文文本分类 [Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
+  - 基于fast.ai使用预训练模型进行中文文本分类 [fast.ai-Bert-Chinese-Text-Classification](https://colab.research.google.com/drive/1ic4IyGKqxOnd5tT3uMRvWPaTNdCWHywz?usp=sharing)
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
