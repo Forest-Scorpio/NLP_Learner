@@ -41,7 +41,9 @@
 
 ## 代码实战🎈🎈
 
-- **中文文本分类(Text classification)**[Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+- **中文文本分类(Text classification)**
+  - TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch[Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+  - 使用Bert，ERNIE，进行中文文本分类 [Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
