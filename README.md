@@ -15,12 +15,10 @@
 
 - **项目持续更新中......**
 
+- [【机器学习训练全流程】](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA):作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
 <div align=center>
 <img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
 </div>
-
-
-- [机器学习训练全流程](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA):作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
 
 ### 学习课程🎈
 
@@ -48,9 +46,9 @@
 
 - **中文文本分类(Text classification)**
   
-  - TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch [Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
-  - 使用Bert，ERNIE，进行中文文本分类 [Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
-  - 基于fast.ai使用预训练模型进行中文文本分类 [fast.ai-Bert-Chinese-Text-Classification](https://colab.research.google.com/drive/1ic4IyGKqxOnd5tT3uMRvWPaTNdCWHywz?usp=sharing)
+  - TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch [【Chinese-Text-Classification-Pytorch】](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+  - 使用Bert，ERNIE，进行中文文本分类 [【Bert-Chinese-Text-Classification-Pytorch】](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
+  - 基于fast.ai使用预训练模型进行中文文本分类 [【fast.ai-Bert-Chinese-Text-Classification】](https://colab.research.google.com/drive/1ic4IyGKqxOnd5tT3uMRvWPaTNdCWHywz?usp=sharing)
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
