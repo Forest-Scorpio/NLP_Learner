@@ -23,9 +23,7 @@
 
 ### 学习课程🎈
 
-- **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。
-  - [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) 
-  - [videos](https://www.bilibili.com/video/BV1VE411s7Xd)
+- **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [videos](https://www.bilibili.com/video/BV1VE411s7Xd)
 
 ## 深度学习👼
 
@@ -33,9 +31,7 @@
 
 ### 学习课程🎈
 
-- **陈蕴侬《应用深度学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。
-  - [课程主页](http://dwz.date/ahbP) 
-  - [videos](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
+- **陈蕴侬《应用深度学习》课程**：本课程主要讲解如何利用深度学习算法来解决各种实际应用场景问题，学生学习如何使用这些深度学习算法，以及为什么要使用这些算法。本课程希望学生在课堂上学习理论，并通过做作业和最后的项目来学习实施方法。 [课程主页](http://dwz.date/ahbP) [videos](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
 
 
 
@@ -45,10 +41,7 @@
 
 ### 学习课程🎈
 
-- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。
-  - [slides](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures) 
-  - [videos](https://www.bilibili.com/video/BV1Eb411H7Pq)
-  - [blogs](https://bitjoy.net/?s=CS224N)
+- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [slides](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [videos](https://www.bilibili.com/video/BV1Eb411H7Pq) [blogs](https://bitjoy.net/?s=CS224N)
 
 ### 代码实战🎈
 
