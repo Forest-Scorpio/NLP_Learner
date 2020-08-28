@@ -13,11 +13,14 @@
 
 ## 机器学习🍉
 
+- **项目持续更新中......**
+
 <div align=center>
 <img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
 </div>
 
-- **项目持续更新中......**
+- [机器学习训练全流程](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA)
+
 
 
 
@@ -35,8 +38,10 @@
   - [slides](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures) 
   - [videos](https://www.bilibili.com/video/BV1Eb411H7Pq)
   - [blogs](https://bitjoy.net/?s=CS224N)
-  
-- 
+
+## 代码实战🎈🎈
+
+- 文本分类(Text classification):
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
