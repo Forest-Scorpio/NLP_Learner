@@ -13,7 +13,13 @@
 
 ## 机器学习🍉
 
+<div align=center>
+<img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
+</div>
+
 - **项目持续更新中......**
+
+
 
 ## 深度学习👼
 
