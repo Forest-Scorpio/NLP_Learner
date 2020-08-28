@@ -19,14 +19,25 @@
 <img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
 </div>
 
-- [机器学习训练全流程](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA)
+- [机器学习训练全流程](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA):作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
 
+### 学习课程🎈
 
-
+- **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。
+  - [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) 
+  - [videos](https://www.bilibili.com/video/BV1VE411s7Xd)
 
 ## 深度学习👼
 
 - **项目持续更新中......**
+
+### 学习课程🎈
+
+- **陈蕴侬《应用深度学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。
+  - [课程主页](http://dwz.date/ahbP) 
+  - [videos](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
+
+
 
 ## 自然语言处理🍊
 
