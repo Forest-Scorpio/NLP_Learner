@@ -11,27 +11,26 @@
 
 ------
 
-
-
-## 目录👼
+## 机器学习🍉
 
 - **项目持续更新中......**
 
-### 机器学习🍉
+## 深度学习👼
 
-### 深度学习🎈
+- **项目持续更新中......**
 
-### 自然语言处理🍊
+## 自然语言处理🍊
 
-#### 学习课程
+- **项目持续更新中......**
 
-- **CS224N**
-  - [Lecture1-Introduction and Word Vectors](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture1-Introduction%20and%20Word%20Vectors)
-  - [Lecture2-Word Vectors 2 and Word Senses](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture2-Word%20Vectors%202%20and%20Word%20Senses)
-  - [Lecture3-Word Window Classification and Neural Networks](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture3-Word%20Window%20Classification%20and%20Neural%20Networks)
-  - [Lecture4-Linguistic Structure Dependency Parsing](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture4-Linguistic%20Structure%20Dependency%20Parsing)
-  - [Lecture5-Matrix Calculus and Backpropagation](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures/Lecture5-Matrix%20Calculus%20and%20Backpropagation)
+### 学习课程
 
+- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。
+  - [slides](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures) 
+  - [videos](https://www.bilibili.com/video/BV1Eb411H7Pq)
+  - [blogs](https://bitjoy.net/?s=CS224N)
+  
+- 
 
 | 模块     | 章节                                                         | 负责人(GitHub)                          | 联系QQ    |
 | -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
