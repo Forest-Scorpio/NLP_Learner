@@ -47,11 +47,11 @@
 
 ### 知识点🎈
 
-| 模块     | 内容                                                         |
-| -------- | ------------------------------------------------------------ |
-| 预训练 | [1. 词嵌入(Word2Vec)](https://zhuanlan.zhihu.com/p/152312237) |
-| 预训练 | [2. 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) |
-| 预训练 | [3. 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |
+| 模块     | 内容                                                         | 论文                          | 代码实现                          |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |--------------------------------------- |
+| 预训练 | [1. 词嵌入(Word2Vec)](https://zhuanlan.zhihu.com/p/152312237) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) | [【Word2Vec.ipynb】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
+| 预训练 | [2. 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) | [【Word2Vec.ipynb】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
+| 预训练 | [3. 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) | [【Word2Vec.ipynb】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
 
 ### 代码实战🎈
 
