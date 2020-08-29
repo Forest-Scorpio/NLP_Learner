@@ -49,7 +49,7 @@
 
 | 模块     | 内容                                                         |
 | -------- | ------------------------------------------------------------ |
-| 预训练 | [1. 词嵌入(Word2Vec)](https://zhuanlan.zhihu.com/p/152312237） |
+| 预训练 | [1. 词嵌入(Word2Vec)](https://zhuanlan.zhihu.com/p/152312237 |
 | 预训练 | [2. 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) |
 | 预训练 | [3. 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |
 
