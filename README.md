@@ -45,6 +45,14 @@
 
 - **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【Lectures】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【Videos】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【Blogs】](https://bitjoy.net/?s=CS224N)
 
+### 知识点🎈
+
+| 模块     | 内容                                                         |
+| -------- | ------------------------------------------------------------ | --------------------------------------- | --------- |
+| 预训练 | [1. 词嵌入(Word2Vec)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/Liner%20Regression/1.Liner%20Regression.md) |
+| 预训练 | [2. 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) |
+| 预训练 | [3. 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) |
+
 ### 代码实战🎈
 
 - **中文文本分类(Text classification)**
