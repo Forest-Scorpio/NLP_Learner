@@ -16,9 +16,12 @@
 - **项目持续更新中......**
 
 - [【机器学习训练全流程】](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA):作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
+
 <div align=center>
 <img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
 </div>
+
+- [【AI算法工程师手册】](http://www.huaxiaozhuan.com/)：本书内容非常丰富，基本涵盖了机器学习、深度学习等领域的很多重要理论知识和实战经验，同时也介绍了工程应用中经常使用的 AI 工具和编程库。
 
 ### 学习课程🎈
 
@@ -40,7 +43,7 @@
 
 ### 学习课程🎈
 
-- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【Slides】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【Videos】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【Blogs】](https://bitjoy.net/?s=CS224N)
+- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【Lectures】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【Videos】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【Blogs】](https://bitjoy.net/?s=CS224N)
 
 ### 代码实战🎈
 
