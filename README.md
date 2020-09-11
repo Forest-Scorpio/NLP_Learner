@@ -39,6 +39,14 @@
 
 ------
 
+### 深度学习框架🎈
+
+- [Pytorch](https://github.com/lyhue1991/eat_pytorch_in_20_days)
+- [Tensorflow](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
+- [Pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
+- [FastAi](https://github.com/fastai/fastai)
+- [Transformers——（NLP)](https://github.com/huggingface/transformers)
+
 ## 自然语言处理🍊
 
 - **项目持续更新中......**
