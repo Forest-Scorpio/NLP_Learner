@@ -71,7 +71,7 @@
 | 词向量   | `GloVe` | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |  |
 | 预训练   | `Transformer` | [【Attention is All you Need(2017)】](https://readpaper.com/paper/2963403868) | [【图解Transformer-EN】](http://jalammar.github.io/illustrated-transformer/)、[【图解Transformer-ZH】](https://zhuanlan.zhihu.com/p/196642078) |
 | 预训练   | `BERT` | [【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)】](https://readpaper.com/paper/2963341956) | [【图解BERT-EN】](http://jalammar.github.io/illustrated-bert/)、[【图解BERT-ZH】](https://zhuanlan.zhihu.com/p/266364526) |
-| 预训练   | `GPT2` | [【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)】](https://readpaper.com/paper/2963341956) | [【图解GPT2-EN】](http://jalammar.github.io/illustrated-gpt2/)、[【图解GPT2-ZH】](https://zhuanlan.zhihu.com/p/264396525) |
+| 预训练   | `GPT2` | [【Language Models are Unsupervised Multitask Learners(2019)】](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) | [【图解GPT2-EN】](http://jalammar.github.io/illustrated-gpt2/)、[【图解GPT2-ZH】](https://zhuanlan.zhihu.com/p/264396525) |
 
 
 ### `NLP`代码框架
