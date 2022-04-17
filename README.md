@@ -1,7 +1,7 @@
 # NLP_Learner🔥🔥
 
 <div align=center>
-<img width="500" src="https://www.pantechsolutions.net/blog/wp-content/uploads/2019/05/NLP.png"/>
+<img width="500" src="https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/04/use-cases-of-NLP.jpg?fit=802%2C420&ssl=1"/>
 </div>
 
 ## 项目介绍🍎 
