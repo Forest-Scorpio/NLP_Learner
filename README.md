@@ -27,7 +27,7 @@
 
 - **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [【Videos】](https://www.bilibili.com/video/BV1VE411s7Xd)
 
-- **[李沐](https://space.bilibili.com/1567748478?from=search&seid=3964477932142951372&spm_id_from=333.337.0.0)《动手深度学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](https://d2l.ai/) [【Videos】](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- **李沐《斯坦福2021秋季·实用机器学习》课程**：应用机器学习（ML）来准确和稳健地解决实际问题，需要的不仅仅是训练最新的ML模型。这门课将同时教授统计学、算法和代码实现。作业和最后的项目强调解决实际问题。授课大牛包括Google Brain高级研究科学家、AWS高级首席科学家和AWS副总裁/杰出科学家。 [【课程主页】](https://c.d2l.ai/stanford-cs329p/) [【视频】](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=28144)
 
 ------
 
@@ -51,6 +51,7 @@
 - [FastAi](https://github.com/fastai/fastai)
 - [Transformers](https://github.com/huggingface/transformers)
 - [bert4torch](https://github.com/Tongjilibo/bert4torch)
+- [ark-nlp](https://github.com/xiangking/ark-nlp)
 
 ## 自然语言处理🍊
 
@@ -70,10 +71,4 @@
 
 ### 代码实战🎈
 
-- **文本分类(Text classification)**
-  - 使用Bert进行中文文本分类 [【Bert-Chinese-Text-Classification-Pytorch】](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
-
-- **命名实体识别(Text classification)**
-  - 序列标注模型：[【Softmax】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_crf.py)、[【CRF】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_crf.py)
-  - 指针网络模型：[【SPAN】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_span.py)、[【MRC】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_mrc.py)
-  - 表格填充模型：[【GlobalPointer】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_global_pointer.py)、[【Efficient GlobalPointer】](https://github.com/Tongjilibo/bert4torch/blob/master/examples/sequence_labeling/task_sequence_labeling_ner_efficient_global_pointer.py)
+- [基于Transformer的NLP任务介绍及代码](https://github.com/datawhalechina/learn-nlp-with-transformers)
