@@ -6,7 +6,7 @@
 
 ## 项目介绍🍎 
 
-- 此项目是本人在学习**机器学习、深度学习、NLP**过程中收集和总结的**知识点和代码实现**，也是作为一个算法工程师必知必会的理论基础知识。
+- 此项目是本人在学习**机器学习、深度学习、`NLP`**过程中收集和总结的**知识点和代码实现**，也是作为一个算法工程师必知必会的理论基础知识。
 - 此项目的创建主要是为了保存在学习过程中使用的相关资料，方便日后的复习和查找。
 
 ------
@@ -17,17 +17,13 @@
 
 - [【机器学习训练流程】](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA)：作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
 
-<div align=center>
-<img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
-</div>
-
-- [【AI算法工程师手册】](http://www.huaxiaozhuan.com/)：本书内容非常丰富，基本涵盖了机器学习、深度学习等领域的很多重要理论知识和实战经验，同时也介绍了工程应用中经常使用的 AI 工具和编程库。
+- [【`AI`算法工程师手册】](http://www.huaxiaozhuan.com/)：本书内容非常丰富，基本涵盖了机器学习、深度学习等领域的很多重要理论知识和实战经验，同时也介绍了工程应用中经常使用的`AI`工具和编程库。
 
 ### 学习课程🎈
 
-- **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [【Videos】](https://www.bilibili.com/video/BV1VE411s7Xd)
+- **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [【视频】](https://www.bilibili.com/video/BV1VE411s7Xd)
 
-- **李沐《斯坦福2021秋季·实用机器学习》课程**：应用机器学习（ML）来准确和稳健地解决实际问题，需要的不仅仅是训练最新的ML模型。这门课将同时教授统计学、算法和代码实现。作业和最后的项目强调解决实际问题。授课大牛包括Google Brain高级研究科学家、AWS高级首席科学家和AWS副总裁/杰出科学家。 [【课程主页】](https://c.d2l.ai/stanford-cs329p/) [【视频】](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=28144)
+- **李沐《斯坦福2021秋季·实用机器学习》课程**：应用机器学习（`ML`）来准确和稳健地解决实际问题，需要的不仅仅是训练最新的ML模型。这门课将同时教授统计学、算法和代码实现。作业和最后的项目强调解决实际问题。授课大牛包括Google Brain高级研究科学家、AWS高级首席科学家和AWS副总裁/杰出科学家。 [【课程主页】](https://c.d2l.ai/stanford-cs329p/) [【视频】](https://space.bilibili.com/1567748478/channel/collectiondetail?sid=28144)
 
 ------
 
@@ -37,9 +33,9 @@
 
 ### 学习课程🎈
 
-- **李沐《动手深度学习》课程**：亚马逊资深首席科学家[李沐](https://space.bilibili.com/1567748478?from=search&seid=3964477932142951372&spm_id_from=333.337.0.0)老师的动手深度学习课程，主要介绍了深度学习相关的基础知识和其在计算机视觉和自然语言处理领域的应用。 [【课程主页】](https://d2l.ai/) [【Videos】](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)[【中文版电子书】]()
+- **李沐《动手深度学习》课程**：亚马逊资深首席科学家[李沐](https://space.bilibili.com/1567748478?from=search&seid=3964477932142951372&spm_id_from=333.337.0.0)老师的动手深度学习课程，主要介绍了深度学习相关的基础知识和其在计算机视觉和自然语言处理领域的应用。 [【课程主页】](https://d2l.ai/) [【视频】](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)[【中文版】](https://zh.d2l.ai/)
 
-- **陈蕴侬《应用深度学习》课程**：本课程主要讲解如何利用深度学习算法来解决各种实际应用场景问题，学生学习如何使用这些深度学习算法，以及为什么要使用这些算法。本课程希望学生在课堂上学习理论，并通过做作业和最后的项目来学习实施方法。 [【课程主页】](http://dwz.date/ahbP) [【Videos】](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
+- **陈蕴侬《应用深度学习》课程**：本课程主要讲解如何利用深度学习算法来解决各种实际应用场景问题，学生学习如何使用这些深度学习算法，以及为什么要使用这些算法。本课程希望学生在课堂上学习理论，并通过做作业和最后的项目来学习实施方法。 [【课程主页】](http://dwz.date/ahbP) [【视频】](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
 
 ------
 
@@ -49,9 +45,6 @@
 - [Tensorflow](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - [Pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 - [FastAi](https://github.com/fastai/fastai)
-- [Transformers](https://github.com/huggingface/transformers)
-- [bert4torch](https://github.com/Tongjilibo/bert4torch)
-- [ark-nlp](https://github.com/xiangking/ark-nlp)
 
 ## 自然语言处理🍊
 
@@ -59,16 +52,22 @@
 
 ### 学习课程🎈
 
-- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、subword与Transformer、BERT与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【Lectures】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【Videos】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【Blogs】](https://bitjoy.net/?s=CS224N)
+- **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、`subword`与`Transformer`、`BERT`与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【课件】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【视频】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【博客】](https://bitjoy.net/?s=CS224N)
 
 ### 知识点🎈
 
 | 模块     | 内容                                                         | 论文                          | 博客                |代码实现                  |
 | -------- | ------------------------------------------------------------ | ---------------------------- | -------------------- | ------------------- |
-| 词向量 | [1. 词嵌入(Word2Vec)](https://zhuanlan.zhihu.com/p/152312237) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) | [【The Illustrated Word2vec】](https://jalammar.github.io/illustrated-word2vec/)、[【The Illustrated Word2vec-zh】](https://blog.csdn.net/fengdu78/article/details/109475859) |[【Word2Vec】](https://github.com/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM.py) |
-| 词向量 | [2. 子词嵌入(fastText)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | [【 Bag of Tricks for Efficient Text Classification(2016)】](http://xxx.itp.ac.cn/pdf/1607.01759.pdf) |  | [【FastText】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
-| 词向量 | [3. 全局向量词嵌入(GloVe)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |  | [【Word2Vec.ipynb】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
+| 词向量 | [1. 词嵌入(`Word2Vec`)](https://zhuanlan.zhihu.com/p/152312237) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) | [【The Illustrated Word2vec】](https://jalammar.github.io/illustrated-word2vec/)、[【The Illustrated Word2vec-zh】](https://blog.csdn.net/fengdu78/article/details/109475859) |[【Word2Vec】](https://github.com/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM.py) |
+| 词向量 | [2. 子词嵌入(`fastText`)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/2.Logistics%20Regression/2.Logistics%20Regression.md) | [【 Bag of Tricks for Efficient Text Classification(2016)】](http://xxx.itp.ac.cn/pdf/1607.01759.pdf) |  | [【FastText】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
+| 词向量 | [3. 全局向量词嵌入(`GloVe`)](https://github.com/NLP-LOVE/ML-NLP/blob/master/Machine%20Learning/3.Desition%20Tree/Desition%20Tree.md) | [【A Neural Probabilistic Language Model(2003)】](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)、 [【 Distributed Representations of Words and Phrases and their Compositionality(2013)】](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) |  | [【Word2Vec.ipynb】](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb) |
 
-### 代码实战🎈
+### `NLP`代码框架🎈
 
-- [基于Transformer的NLP任务介绍及代码](https://github.com/datawhalechina/learn-nlp-with-transformers)
+- [Transformers](https://github.com/huggingface/transformers)
+- [bert4torch](https://github.com/Tongjilibo/bert4torch)
+- [ark-nlp](https://github.com/xiangking/ark-nlp)
+
+### 实战🎈
+
+- [基于`Transformer`的`NLP`任务介绍及代码](https://github.com/datawhalechina/learn-nlp-with-transformers)
