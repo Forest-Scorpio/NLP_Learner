@@ -15,7 +15,7 @@
 
 - **项目持续更新中......**
 
-- [【机器学习训练全流程】](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA):作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
+- [【机器学习训练流程】](https://mp.weixin.qq.com/s/tDn9_4-EFolRth87O-E4NA)：作者用手绘图的方式讲解了机器学习模型构建的全流程，逻辑清晰、生动形象。
 
 <div align=center>
 <img width="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/vI9nYe94fsG12oI3SaLQv93EuC1VM3wTeauBDdr1uAvKpStjR1UMoIxjwVDrd2X5ZRqLm6WAQ5XX02qDLR4M6Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1"/>
@@ -27,6 +27,8 @@
 
 - **李宏毅《机器学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html) [【Videos】](https://www.bilibili.com/video/BV1VE411s7Xd)
 
+- **[李沐](https://space.bilibili.com/1567748478?from=search&seid=3964477932142951372&spm_id_from=333.337.0.0)《动手深度学习》课程**：台大李宏毅老师的机器学习课程可以说是最具代表性的中文公开课之一，已成为大量国内初学者的首选。该课程涉及领域非常完整，从有监督、半监督、无监督到强化学习，都会有介绍。 [【课程主页】](https://d2l.ai/) [【Videos】](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+
 ------
 
 ## 深度学习👼
@@ -34,6 +36,8 @@
 - **项目持续更新中......**
 
 ### 学习课程🎈
+
+- **李沐《动手深度学习》课程**：亚马逊资深首席科学家[李沐](https://space.bilibili.com/1567748478?from=search&seid=3964477932142951372&spm_id_from=333.337.0.0)老师的动手深度学习课程，主要介绍了深度学习相关的基础知识和其在计算机视觉和自然语言处理领域的应用。 [【课程主页】](https://d2l.ai/) [【Videos】](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)[【中文版电子书】]()
 
 - **陈蕴侬《应用深度学习》课程**：本课程主要讲解如何利用深度学习算法来解决各种实际应用场景问题，学生学习如何使用这些深度学习算法，以及为什么要使用这些算法。本课程希望学生在课堂上学习理论，并通过做作业和最后的项目来学习实施方法。 [【课程主页】](http://dwz.date/ahbP) [【Videos】](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
 
