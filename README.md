@@ -4,14 +4,20 @@
 <img width="500" src="https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/04/use-cases-of-NLP.jpg?fit=802%2C420&ssl=1"/>
 </div>
 
-## 项目介绍🍎 
+## 项目介绍
 
 - 此项目是本人在学习**机器学习、深度学习、`NLP`**过程中收集和总结的**知识点和代码实现**，也是作为一个算法工程师必知必会的理论基础知识。
 - 此项目的创建主要是为了保存在学习过程中使用的相关资料，方便日后的复习和查找。
 
 ------
 
-## 机器学习🍉
+## Python
+
+- [廖雪峰`Python`教程](https://www.liaoxuefeng.com/wiki/1016959663602400/)
+
+------
+
+## 机器学习
 
 - **项目持续更新中......**
 
@@ -29,7 +35,7 @@
 
 ------
 
-## 深度学习👼
+## 深度学习
 
 - **项目持续更新中......**
 
@@ -39,8 +45,6 @@
 
 - **陈蕴侬《应用深度学习》课程**：本课程主要讲解如何利用深度学习算法来解决各种实际应用场景问题，学生学习如何使用这些深度学习算法，以及为什么要使用这些算法。本课程希望学生在课堂上学习理论，并通过做作业和最后的项目来学习实施方法。 [【课程主页】](http://dwz.date/ahbP) [【视频】](https://www.bilibili.com/video/BV19g4y1b7vx?from=search&seid=8860161030043950732)
 
-------
-
 ### 深度学习框架
 
 - [pytorch](https://github.com/lyhue1991/eat_pytorch_in_20_days)
@@ -48,7 +52,9 @@
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)
 - [fastai](https://github.com/fastai/fastai)
 
-## 自然语言处理🍊
+------
+
+## 自然语言处理
 
 - **项目持续更新中......**
 
