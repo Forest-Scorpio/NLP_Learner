@@ -58,12 +58,6 @@
 
 - **项目持续更新中......**
 
-- [苏剑林的科学空间](https://spaces.ac.cn/)
-
-- [Jay Alammar的博客](https://jalammar.github.io/)
-
-- [leemeng的博客](https://leemeng.tw/index.html#blog)
-
 ### 学习课程
 
 - **斯坦福大学自然语言处理课程CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、`subword`与`Transformer`、`BERT`与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【课件】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【视频】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【博客】](https://bitjoy.net/?s=CS224N)
@@ -79,6 +73,14 @@
 | 预训练   | `BERT` | [【BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)】](https://readpaper.com/paper/2963341956) | [【图解BERT-EN】](http://jalammar.github.io/illustrated-bert/)、[【图解BERT-ZH】](https://zhuanlan.zhihu.com/p/266364526) |
 | 预训练   | `GPT2` | [【Language Models are Unsupervised Multitask Learners(2019)】](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf) | [【图解GPT2-EN】](http://jalammar.github.io/illustrated-gpt2/)、[【图解GPT2-ZH】](https://zhuanlan.zhihu.com/p/264396525) |
 
+
+### 相关博客
+
+- [苏剑林的科学空间](https://spaces.ac.cn/)
+
+- [Jay Alammar的博客](https://jalammar.github.io/)
+
+- [leemeng的博客](https://leemeng.tw/index.html#blog)
 
 ### `NLP`代码框架
 
