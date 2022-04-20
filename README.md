@@ -61,7 +61,7 @@
 
 ### 学习课程
 
-- **斯坦福大学自然语言处理课程 CS224N**：该课程几乎涵盖了所有NLP相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、`subword` 与 `Transformer`、`BERT` 与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【课件】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【视频】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【博客】](https://bitjoy.net/?s=CS224N)
+- **斯坦福大学自然语言处理课程 CS224N**：该课程几乎涵盖了所有 `NLP` 相关的内容，涵盖了词义与词向量、依存句法分析、语言模型、机器翻译、深度问答、`subword` 与 `Transformer`、`BERT` 与预训练模型、自然语言生成、指代消解、成分句法分析等方面。 [【课件】](https://github.com/Forest-Scorpio/NLP_Learner/tree/master/NLP/CS224N/Lectures)  [【视频】](https://www.bilibili.com/video/BV1Eb411H7Pq) [【博客】](https://bitjoy.net/?s=CS224N)
 
 ### 知识点
 
